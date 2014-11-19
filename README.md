@@ -6,4 +6,4 @@ La evolución del mismo se verá influenciada por los los avances, necesidades y
 
 ### Contenido
 Para no influenciar en ningun aspecto de diseño, la base es una plantilla customizada de Boilerplate y Boilerplate Mobile.
-Del lado de las CSS me baso en el framework de [@Wakkos](https://github.com/Wakkos/Wakkos-CSS-Framework), el cual está basado en Sass y un claro enfoque a Mobile First. En cuanto a las librerías Javascript, inicialmente incluyo modernizer y jQuery, pero sólo se utilizaran si el proyecto lo requiere.
+Para las CSS me baso en el framework de [@Wakkos](https://github.com/Wakkos/Wakkos-CSS-Framework), que está basado en Sass con un claro enfoque a Mobile First. En cuanto a las librerías Javascript, incluyo modernizer y jQuery, pero sólo se utilizaran si el proyecto lo requiere.
